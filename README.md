@@ -145,7 +145,7 @@ Os testes unitários foram desenvolvidos utilizando:
 * `describe()` para agrupar suítes de testes
 * `it()` para definir casos de teste
 * `assert.equal()` para validação dos resultados
-* * `assert.throws()` para validação de mensagens de erro
+* `assert.throws()` para validação de mensagens de erro
 
 O projeto tem como foco validar a funcionalidade de login através de testes automatizados, cobrindo diferentes cenários de autenticação de usuários e validação de credenciais expiradas.
 
